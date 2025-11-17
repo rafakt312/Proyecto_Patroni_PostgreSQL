@@ -1,0 +1,5 @@
+# Archivos de log
+*.log
+
+# Archivos de datos de MySQL/MariaDB (si montas volúmenes de datos)
+/data/
